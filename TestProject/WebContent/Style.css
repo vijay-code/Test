@@ -1,0 +1,56 @@
+body {
+background-image: URL(backgroundTheme.jpg);
+     background-color: #ffffe6;
+}
+#nameerr,#incomeerr,#tdserr,#taxdederr
+{
+color: red;
+}
+
+h1{
+	
+	font-family: "Lucida Bright";
+	font-size: 28px;
+	font-style: italic;
+	font-weight: bolder;
+}
+
+th {
+	
+	font-family: "Lucida Bright";
+	font-size: 19px;
+	font-style: italic;
+	font-weight: bolder;
+}
+
+td {
+	
+	font-family: "Georgia";
+	font-size: 15px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#buttonsave{
+	font-family: "Georgia";
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bolder;
+background-color: #808080;
+}
+#buttonclear{
+	font-family: "Georgia";
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bolder;
+	background-color: #808080;
+	
+}
+
+input[type="text"] {
+	
+	border:2px solid #456879;
+	border-radius:10px;
+	height: 22px;
+	width: 230px;
+}
